@@ -1,5 +1,5 @@
 # Name of the project
-PROJ_NAME=mainFile
+PROJ_NAME=mainFile.exe
 
 C_DIR=./
 H_DIR=./
